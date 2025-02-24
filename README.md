@@ -5,8 +5,8 @@ This repository contains a configured Flask application that has run on Docker w
 
 Build Instructions:
 
-1. You must initially confirm that you have Docker and Docker Compose installed on your system.
-2. First, you must clone and cd into your repository using the commands:
+1. You must initially confirm that you have Docker and Docker Compose installed and running on your system.
+2. Clone and cd into your repository using the commands:
    ```
    git clone <your-repo-url>
    cd <your-repo-name>
